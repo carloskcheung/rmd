@@ -1,4 +1,3 @@
-
 <!--
 http://www.apache.org/licenses/LICENSE-2.0.txt
 
@@ -18,11 +17,15 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Frmd.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarloskcheung%2Frmd?ref=badge_large)
+
 # Resource Management Daemon #
 
 [![Build Status](https://travis-ci.org/intel/rmd.svg?branch=master)](https://travis-ci.org/intel/rmd)
 [![Go Report Card](https://goreportcard.com/badge/github.com/intel/rmd)](https://goreportcard.com/report/github.com/intel/rmd)
 [![GoDoc](https://godoc.org/github.com/intel/rmd?status.svg)](https://godoc.org/github.com/intel/rmd)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Frmd.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarloskcheung%2Frmd?ref=badge_shield)
 
 ----------
 
